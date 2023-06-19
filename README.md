@@ -2,6 +2,9 @@
 
 Base files needed for probably any Node project written with Typescript, as of June 2023. Just copy those files over and do the following:
 
+- Change the app name at the top of `package.json`
+- Install dependencies
+
 ```
 npm install
 ```
