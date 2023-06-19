@@ -8,5 +8,5 @@ npm install
 
 NPM commands configured:
 
-- `build`: compiles files to dist
-- `dev`: compiles to dist and runs `dist/index.js`
+- `build`: compiles files to `dist`
+- `dev`: compiles to `dist` and runs `dist/index.js`
