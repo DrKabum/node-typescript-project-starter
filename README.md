@@ -1,6 +1,6 @@
 # Node TS starter
 
-Base files needed for probably any Node project written with Typescript, as of June 2023. Just copy those files over and do the following:
+This repository contains all the base files needed for probably any Node project written with Typescript, as of June 2023. Nothing fancy, but the bare minimum is here so you can get started. Just copy those files over and do the following:
 
 - Change the app name at the top of `package.json`
 - Install dependencies
